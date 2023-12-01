@@ -1,0 +1,4001 @@
+Line 1: nqninenmvnpsz874
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 84
+Line 2: 8twofpmpxkvvdnpdnlpkhseven4ncgkb
+Left = 8
+Right = 4
+Left = 8, Right = 4, Value = 84, Total = 168
+Line 3: six8shdkdcdgseven8xczqrnnmthreecckfive
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 256
+Line 4: qlcnz54dd75nine7jfnlfgz
+Left = 5
+Right = 7
+Left = 5, Right = 7, Value = 57, Total = 313
+Line 5: 7vrdhggdkqbnltlgpkkvsdxn2mfpghkntzrhtjgtxr
+Left = 7
+Right = 2
+Left = 7, Right = 2, Value = 72, Total = 385
+Line 6: cdhmktwo6kjqbprvfour8
+Right = 8
+Left = 6
+Left = 6, Right = 8, Value = 68, Total = 453
+Line 7: ninekkvkeight9three
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 552
+Line 8: ms9five71lrfpqxqlbj
+Left = 9
+Right = 1
+Left = 9, Right = 1, Value = 91, Total = 643
+Line 9: 9five9sevenldshqfgcnq
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 742
+Line 10: 1one4seven
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 756
+Line 11: 7qtg3jmnd1two2
+Left = 7
+Right = 2
+Left = 7, Right = 2, Value = 72, Total = 828
+Line 12: 2c7four8one
+Left = 2
+Right = 8
+Left = 2, Right = 8, Value = 28, Total = 856
+Line 13: qdkneight6zqcrgxxnkjdbb
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 922
+Line 14: twofourjqnpv4lgvzjzgnn
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 966
+Line 15: pgmmmcvcrmxsevenfour1three1threexx
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 977
+Line 16: nbcmmrx7eight923
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 1050
+Line 17: 5eightr9threemmdtp
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 1109
+Line 18: ninedbrone2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 1131
+Line 19: onethreesixtwozkqbmsixfivefour5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 1186
+Line 20: 68eightkznineonethree2pdrgrx
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 1248
+Line 21: 9four2pjdxgbsxddpkfqjqrtzt
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 1340
+Line 22: dbtrsnscpztworfgdjrctwo2one9
+Right = 9
+Left = 2
+Left = 2, Right = 9, Value = 29, Total = 1369
+Line 23: 2gssvcnnsmlsixthree7onedmdpnjh6
+Left = 2
+Right = 6
+Left = 2, Right = 6, Value = 26, Total = 1395
+Line 24: xkpd23four1seven8six
+Right = 8
+Left = 2
+Left = 2, Right = 8, Value = 28, Total = 1423
+Line 25: ldz638mfpnclztdjkns
+Left = 6
+Right = 8
+Left = 6, Right = 8, Value = 68, Total = 1491
+Line 26: hrjtvdtb9ninedhzxdsskd
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 1590
+Line 27: nhpscgrrtqdsixfive9f9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 1689
+Line 28: sixkzqqznmmcqqxninepdqbf8nine
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 1777
+Line 29: 1six52six1
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 1788
+Line 30: 6frronepkgmsjgtzlbcveight
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 1854
+Line 31: threejctzbkxbone7six
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 1931
+Line 32: 1fiverqvpjvdbzfjhjzpsttbglqtfvcqpbcgpkvkn
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 1942
+Line 33: vjfd8ninekt9qjr
+Right = 9
+Left = 8
+Left = 8, Right = 9, Value = 89, Total = 2031
+Line 34: 16fivefivesixtsmpkzv9
+Left = 1
+Right = 9
+Left = 1, Right = 9, Value = 19, Total = 2050
+Line 35: ffxcxcm5qrkgxnmkgxnmhzkrssjtjrmnvltsfmh
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 2105
+Line 36: 6fourvkxzlxfjqcxv
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 2171
+Line 37: sixjxpqjtcrtsixjtwo1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 2182
+Line 38: eightnine2jqnqvznkrbrmcthree6
+Right = 6
+Left = 2
+Left = 2, Right = 6, Value = 26, Total = 2208
+Line 39: 3tzlfqvhxdjbtlntvlfm73rnjhmznstfgqcncjbj
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 2241
+Line 40: fiveclspv3dlbvlp
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 2274
+Line 41: sevenfourck6kdqstmone
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 2340
+Line 42: dmqvplslvxgbd2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 2362
+Line 43: 2lzjmlpfccgnlqfive
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 2384
+Line 44: twoone6one
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 2450
+Line 45: eightmngshxdvnine3vjlpncmqtq
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 2483
+Line 46: 1sttwo4
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 2497
+Line 47: stwone3dzjhlxg
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 2530
+Line 48: oneninecszxmffctwo9eight
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 2629
+Line 49: 5three5xnhgtgrmvthree6onefkxjhglr1
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 2680
+Line 50: 88onethreenxthhbqs9ljnpbmh3
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 2763
+Line 51: fqbxgjsts85qp3
+Right = 3
+Left = 8
+Left = 8, Right = 3, Value = 83, Total = 2846
+Line 52: nine9five8one4bff
+Right = 4
+Left = 9
+Left = 9, Right = 4, Value = 94, Total = 2940
+Line 53: four65ltqsixqmmml9
+Right = 9
+Left = 6
+Left = 6, Right = 9, Value = 69, Total = 3009
+Line 54: bhjpcfzvtczhn1four
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 3020
+Line 55: 1threet23
+Left = 1
+Right = 3
+Left = 1, Right = 3, Value = 13, Total = 3033
+Line 56: eight5threetwo1
+Right = 1
+Left = 5
+Left = 5, Right = 1, Value = 51, Total = 3084
+Line 57: 23nine1kbvgbthjnnineonetjqbflrfg8
+Left = 2
+Right = 8
+Left = 2, Right = 8, Value = 28, Total = 3112
+Line 58: 11qthreelvjfive1
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 3123
+Line 59: fiveqthreenine3sscz81jbccdnhdmz
+Right = 1
+Left = 3
+Left = 3, Right = 1, Value = 31, Total = 3154
+Line 60: 9tvclcptc3
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 3247
+Line 61: lrtlblzj2lpbgvmzgx
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 3269
+Line 62: 8zfmctx2
+Left = 8
+Right = 2
+Left = 8, Right = 2, Value = 82, Total = 3351
+Line 63: one8lkseven2eightcxqvd6
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 3437
+Line 64: 7one7hqjhkgzqzs
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 3514
+Line 65: 3qlgq
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 3547
+Line 66: phkchcpdcm7jtg3rfive
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 3620
+Line 67: ffbcrneightvhzcckq1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 3631
+Line 68: 3hlgrdsdsplnhpc
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 3664
+Line 69: 1vbdxqnzrthree
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 3675
+Line 70: seven93six25sixnine
+Left = 9
+Right = 5
+Left = 9, Right = 5, Value = 95, Total = 3770
+Line 71: four1bxstchgzjdpxdninedpfour4
+Right = 4
+Left = 1
+Left = 1, Right = 4, Value = 14, Total = 3784
+Line 72: 65fivetnsseight8lcvgkkglslcjtjssxmgtvk
+Left = 6
+Right = 8
+Left = 6, Right = 8, Value = 68, Total = 3852
+Line 73: fourjqgvkdkl2pxseven2ninemzqfqv
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 3874
+Line 74: zqmsbltpvsrzcpnn2twolzdjqmb88
+Right = 8
+Left = 2
+Left = 2, Right = 8, Value = 28, Total = 3902
+Line 75: 3qnzkmbltldthreesix1ffive36
+Left = 3
+Right = 6
+Left = 3, Right = 6, Value = 36, Total = 3938
+Line 76: kspfzvvvfkztcs9threefoureightsixseveneight
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 4037
+Line 77: gh234r
+Right = 4
+Left = 2
+Left = 2, Right = 4, Value = 24, Total = 4061
+Line 78: vqtrnskhkl658
+Right = 8
+Left = 6
+Left = 6, Right = 8, Value = 68, Total = 4129
+Line 79: 6five7mscjtxlrhc
+Left = 6
+Right = 7
+Left = 6, Right = 7, Value = 67, Total = 4196
+Line 80: nsxjptfkjfsbm4fivefv
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 4240
+Line 81: two3eightmtldcxpvfourfive2
+Right = 2
+Left = 3
+Left = 3, Right = 2, Value = 32, Total = 4272
+Line 82: zdbfourmchtdonefiveqpqlxn5bjhzdhz
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 4327
+Line 83: 7lnqgone3fivehtmbj6nine
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 4403
+Line 84: fjkvmgvfgqbfivezdnlxmfzbdjbdvqrj2nine
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 4425
+Line 85: glpxlb6rq7fourone
+Left = 6
+Right = 7
+Left = 6, Right = 7, Value = 67, Total = 4492
+Line 86: three4sixjxg
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 4536
+Line 87: fourgqcmtqhpvnscb9rvkdhmltnkxvhmcg
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 4635
+Line 88: gbjqshjktddkhkdfckqfivenine471
+Right = 1
+Left = 4
+Left = 4, Right = 1, Value = 41, Total = 4676
+Line 89: bltthrp2seven4rqzgklsthleightlljczbeight4
+Right = 4
+Left = 2
+Left = 2, Right = 4, Value = 24, Total = 4700
+Line 90: xsmbv3nine1nine7
+Right = 7
+Left = 3
+Left = 3, Right = 7, Value = 37, Total = 4737
+Line 91: hdcdsgk59eightbstcgprslsxxflcn
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 4796
+Line 92: 2mmjhsqstdhrstwothreeonetwoh
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 4818
+Line 93: xpsevenfiveseven2fourthree78
+Right = 8
+Left = 2
+Left = 2, Right = 8, Value = 28, Total = 4846
+Line 94: 8vscrfbxdq4kqjgsbffddr
+Left = 8
+Right = 4
+Left = 8, Right = 4, Value = 84, Total = 4930
+Line 95: eight5xbjdqjrxs93
+Right = 3
+Left = 5
+Left = 5, Right = 3, Value = 53, Total = 4983
+Line 96: 3tseven
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 5016
+Line 97: svninetjflvqngqp1pgvmrqvgfour
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 5027
+Line 98: 2ggrqtnzsrsevenmfqjgd
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 5049
+Line 99: qznhctbxb1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 5060
+Line 100: vpcpgsh9hdhvdnhkdqtzc3six7
+Right = 7
+Left = 9
+Left = 9, Right = 7, Value = 97, Total = 5157
+Line 101: vbtwonebffmphmxdeighttwo6sevenrvsqjthree
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 5223
+Line 102: four74
+Right = 4
+Left = 7
+Left = 7, Right = 4, Value = 74, Total = 5297
+Line 103: 1threeeightnsp5
+Left = 1
+Right = 5
+Left = 1, Right = 5, Value = 15, Total = 5312
+Line 104: ftxj99twotwo5
+Right = 5
+Left = 9
+Left = 9, Right = 5, Value = 95, Total = 5407
+Line 105: 9onesevenqcsjrpp
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 5506
+Line 106: 27556sqnpjnnddn
+Left = 2
+Right = 6
+Left = 2, Right = 6, Value = 26, Total = 5532
+Line 107: cffxtjssdbrdseven7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 5609
+Line 108: kxdlzldpkrsffourfsnrcstllxvjnbnqnstchlvrbxpx4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 5653
+Line 109: 33knb
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 5686
+Line 110: 8mkcmxctcf3
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 5769
+Line 111: ninexzhtqsr6hnftrbbnsevensevenoneightq
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 5835
+Line 112: fourfour9fivetwo4
+Right = 4
+Left = 9
+Left = 9, Right = 4, Value = 94, Total = 5929
+Line 113: 62gmqjsvthg
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 5991
+Line 114: tbdkbchcmb7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 6068
+Line 115: 38xztpsx18xcmcdqtmg
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 6106
+Line 116: rrxb73six6
+Right = 6
+Left = 7
+Left = 7, Right = 6, Value = 76, Total = 6182
+Line 117: 2943four2onephbj
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 6204
+Line 118: txknhkn8
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 6292
+Line 119: qkfmptsqrchbdhgr3vphrkmz
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 6325
+Line 120: one2prbchjsskj45zmnlbrdkk
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 6350
+Line 121: ninefive7eight633
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 6423
+Line 122: qjc3threefour8
+Right = 8
+Left = 3
+Left = 3, Right = 8, Value = 38, Total = 6461
+Line 123: 858eightsevensix
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 6549
+Line 124: cthvxzxxqb4tknone5xfqprdzntj
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 6594
+Line 125: five8828mlmdfd
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 6682
+Line 126: threechljksevenninefttmkfsxvz98
+Right = 8
+Left = 9
+Left = 9, Right = 8, Value = 98, Total = 6780
+Line 127: sixsixgckqtfvmxltdjthbtnjvmpxs6nine8
+Right = 8
+Left = 6
+Left = 6, Right = 8, Value = 68, Total = 6848
+Line 128: eightsixnxdjg57sixmpseven
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 6905
+Line 129: 1smpvbqkg
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 6916
+Line 130: rpgxfrlg3seven
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 6949
+Line 131: qvdseven3four7
+Right = 7
+Left = 3
+Left = 3, Right = 7, Value = 37, Total = 6986
+Line 132: 9nzmqq
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 7085
+Line 133: 7nkbcglxgsixjgsbhkkr66
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 7161
+Line 134: 54three
+Left = 5
+Right = 4
+Left = 5, Right = 4, Value = 54, Total = 7215
+Line 135: eight8qjmvnptn4eight
+Left = 8
+Right = 4
+Left = 8, Right = 4, Value = 84, Total = 7299
+Line 136: seven5fivett77six
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 7356
+Line 137: kfkngbkkjsqlk6foureight
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 7422
+Line 138: rz17
+Right = 7
+Left = 1
+Left = 1, Right = 7, Value = 17, Total = 7439
+Line 139: seveneight4493845
+Right = 5
+Left = 4
+Left = 4, Right = 5, Value = 45, Total = 7484
+Line 140: 9vfhnzfourfourseventxfcxg
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 7583
+Line 141: vzsfqhbseven9gbmshxzsixfivedhcvfjjdcmnfzbxx
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 7682
+Line 142: 3two8three
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 7720
+Line 143: twovg1ctxrm8three8kgckpfbm
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 7738
+Line 144: x2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 7760
+Line 145: 25nineeighttwoeight9fourfour
+Left = 2
+Right = 9
+Left = 2, Right = 9, Value = 29, Total = 7789
+Line 146: 27two583
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 7812
+Line 147: sixeight67fivecgbxbvrpghfzdzfkzptqlhq
+Left = 6
+Right = 7
+Left = 6, Right = 7, Value = 67, Total = 7879
+Line 148: eight8rltgnb8cnrnjqggl
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 7967
+Line 149: fbprf9twonccnkkdf98eight
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 8065
+Line 150: sjzsjdfv3three15kjjjdnmfivevmcxtk
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 8100
+Line 151: xsrfvjblk2779
+Right = 9
+Left = 2
+Left = 2, Right = 9, Value = 29, Total = 8129
+Line 152: fivednpgkqjl3five
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 8162
+Line 153: twolpeightgzcsix624llqdbrnnz
+Right = 4
+Left = 6
+Left = 6, Right = 4, Value = 64, Total = 8226
+Line 154: jmoneightsevenpzxdsbzvmcvmmh733fourfourthree
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 8299
+Line 155: 4eight1mmtqckvnxfour
+Left = 4
+Right = 1
+Left = 4, Right = 1, Value = 41, Total = 8340
+Line 156: nine4jnnqxcsdsvxqnbvzxmf
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 8384
+Line 157: fourvzrhx52ntqpl99fljdhmtctcptgtck
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 8443
+Line 158: 6rvtkmtjtzqrgltqltcjnseven
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 8509
+Line 159: srmkdxqdd2sevenrxht4
+Right = 4
+Left = 2
+Left = 2, Right = 4, Value = 24, Total = 8533
+Line 160: 2sixseven35sixseven4eightwoh
+Left = 2
+Right = 4
+Left = 2, Right = 4, Value = 24, Total = 8557
+Line 161: 9eightstdlrsjfndnxblsevennineeight
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 8656
+Line 162: ngvvqcfthreeccsfxtrh65four1
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 8717
+Line 163: 416pgvmxbnpxbnjbxdk
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 8763
+Line 164: 11eight23onefbszr
+Left = 1
+Right = 3
+Left = 1, Right = 3, Value = 13, Total = 8776
+Line 165: 72rvjkszv1four4foureight
+Left = 7
+Right = 4
+Left = 7, Right = 4, Value = 74, Total = 8850
+Line 166: 1sixrjkqsblbmtfive223vhh
+Left = 1
+Right = 3
+Left = 1, Right = 3, Value = 13, Total = 8863
+Line 167: 5fdbhxrkxbhfftwotn
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 8918
+Line 168: cpxchdmhjbn6s3sevennine
+Right = 3
+Left = 6
+Left = 6, Right = 3, Value = 63, Total = 8981
+Line 169: nine528
+Right = 8
+Left = 5
+Left = 5, Right = 8, Value = 58, Total = 9039
+Line 170: ninetwo623ln6qrhthcxvk
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 9105
+Line 171: 67qlpfiveninesixh
+Left = 6
+Right = 7
+Left = 6, Right = 7, Value = 67, Total = 9172
+Line 172: nine1cvzb55grhbdxrlgf13
+Right = 3
+Left = 1
+Left = 1, Right = 3, Value = 13, Total = 9185
+Line 173: tqxztncjrlctfxqv7twofbfour35
+Right = 5
+Left = 7
+Left = 7, Right = 5, Value = 75, Total = 9260
+Line 174: 416
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 9306
+Line 175: 4sevennnsixeight3one
+Left = 4
+Right = 3
+Left = 4, Right = 3, Value = 43, Total = 9349
+Line 176: bqhpgqzppconetwotwo9jtqldmcs
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 9448
+Line 177: 7nccq
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 9525
+Line 178: five2one46rglkpeightlrqtskcxr
+Left = 2
+Right = 6
+Left = 2, Right = 6, Value = 26, Total = 9551
+Line 179: crgcgeightfive6m1sttjtqjprvdbgph
+Left = 6
+Right = 1
+Left = 6, Right = 1, Value = 61, Total = 9612
+Line 180: z92lbqjcggv87fbsix3
+Right = 3
+Left = 9
+Left = 9, Right = 3, Value = 93, Total = 9705
+Line 181: 4fourfive2
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 9747
+Line 182: cdrvdqfivesixthree9qmpgzbmg69
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 9846
+Line 183: 4zpnjx4zkgqkfxz
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 9890
+Line 184: m4trfc8
+Right = 8
+Left = 4
+Left = 4, Right = 8, Value = 48, Total = 9938
+Line 185: pndnt7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 10015
+Line 186: ninefour7tgmdg2two
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 10087
+Line 187: gffvxxzj876
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 10173
+Line 188: vzpqmrkxt318seven2
+Right = 2
+Left = 3
+Left = 3, Right = 2, Value = 32, Total = 10205
+Line 189: lpkhnfbfrjhj7one
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 10282
+Line 190: kbkb6k
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 10348
+Line 191: vrlgtjgqzdqsxznlt2three3
+Right = 3
+Left = 2
+Left = 2, Right = 3, Value = 23, Total = 10371
+Line 192: sqpnxgzqrp1dpfkm
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 10382
+Line 193: eight24dnsk5p
+Right = 5
+Left = 2
+Left = 2, Right = 5, Value = 25, Total = 10407
+Line 194: 37sevenhdjfgnp9
+Left = 3
+Right = 9
+Left = 3, Right = 9, Value = 39, Total = 10446
+Line 195: 7qskj
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 10523
+Line 196: 913one
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 10616
+Line 197: 8z2tlncgccsbdqdmt
+Left = 8
+Right = 2
+Left = 8, Right = 2, Value = 82, Total = 10698
+Line 198: bzpfrpt9nfz
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 10797
+Line 199: one4tmf3eighteightdxcmjrhnsix
+Left = 4
+Right = 3
+Left = 4, Right = 3, Value = 43, Total = 10840
+Line 200: 4mtmzzn
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 10884
+Line 201: 3fchqlmpshz4kx
+Left = 3
+Right = 4
+Left = 3, Right = 4, Value = 34, Total = 10918
+Line 202: 7tbhnbdbv
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 10995
+Line 203: 1knflgddmtwogzjmzdvcmjz
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 11006
+Line 204: 93873czmcfive
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 11099
+Line 205: 7gdfskkmfzqvhcsgcfgcdsbnn7jclxnx
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 11176
+Line 206: 652nine2ntrntwodzjnzm
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 11238
+Line 207: cbfvnsqlsjzvh2gcgfpbqmfndcksrzcrsdpvfour
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 11260
+Line 208: 6mvqqz9pbfblmsixone
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 11329
+Line 209: tmn3oneeight515
+Right = 5
+Left = 3
+Left = 3, Right = 5, Value = 35, Total = 11364
+Line 210: 825fourgmcfbctnnrxsix48
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 11452
+Line 211: 57fourpsneightnineqhqvd
+Left = 5
+Right = 7
+Left = 5, Right = 7, Value = 57, Total = 11509
+Line 212: 4662qgjdcpmg
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 11551
+Line 213: six3eight5sixsksgxhcxthree99
+Right = 9
+Left = 3
+Left = 3, Right = 9, Value = 39, Total = 11590
+Line 214: threethreehjbghfourseven3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 11623
+Line 215: 1jdjzxlm8two8
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 11641
+Line 216: 3fiveeightwomnz
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 11674
+Line 217: fivebfttsevenbxflcsnqnb9fiveseven3
+Right = 3
+Left = 9
+Left = 9, Right = 3, Value = 93, Total = 11767
+Line 218: vbkdcnqlcj9seveneight3mcjtmlj2one
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 11859
+Line 219: dzrscnvpj16csxchgjvphrvnfjhxlx74nine3
+Right = 3
+Left = 1
+Left = 1, Right = 3, Value = 13, Total = 11872
+Line 220: eight76mxmeight51
+Right = 1
+Left = 7
+Left = 7, Right = 1, Value = 71, Total = 11943
+Line 221: smntfcjhdmr4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 11987
+Line 222: six8mtwo65sczqxjsx
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 12072
+Line 223: kkzb66ninecnqhzvflrjhjhprnr6seven
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 12138
+Line 224: twoztzlfctwo73ctdksix5two
+Right = 5
+Left = 7
+Left = 7, Right = 5, Value = 75, Total = 12213
+Line 225: five42xds8qdxnrrfour6fncfrbfp
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 12259
+Line 226: sqfbbqsix6five6five88
+Right = 8
+Left = 6
+Left = 6, Right = 8, Value = 68, Total = 12327
+Line 227: vvcztfjrz38fourrdxggjdj
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 12365
+Line 228: twoeightthree5372five9
+Right = 9
+Left = 5
+Left = 5, Right = 9, Value = 59, Total = 12424
+Line 229: nine5sixkscsn19
+Right = 9
+Left = 5
+Left = 5, Right = 9, Value = 59, Total = 12483
+Line 230: foursix29mplvnvdlfldkzcvfour
+Left = 2
+Right = 9
+Left = 2, Right = 9, Value = 29, Total = 12512
+Line 231: onesixtwovrktfkqznjrbvptwo46
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 12558
+Line 232: dcnhsvsdgzrbkqqcsx2onemxnpm1seveneight
+Right = 1
+Left = 2
+Left = 2, Right = 1, Value = 21, Total = 12579
+Line 233: nbpnspvqmkbxnff7jttxslzq5cd
+Right = 5
+Left = 7
+Left = 7, Right = 5, Value = 75, Total = 12654
+Line 234: 9onetvonekhsn9mbpplnttg
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 12753
+Line 235: 4onetwotwofivefivedsvvdlrnbm6
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 12799
+Line 236: cprfvbcrpttwoqrptsq2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 12821
+Line 237: 483four
+Left = 4
+Right = 3
+Left = 4, Right = 3, Value = 43, Total = 12864
+Line 238: seven32ninetwotf1threepbghpmpj
+Left = 3
+Right = 1
+Left = 3, Right = 1, Value = 31, Total = 12895
+Line 239: scfrfvrdhrlzxgqvrztcxmxzntpbone3threenfxb
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 12928
+Line 240: slnine2five
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 12950
+Line 241: 69
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 13019
+Line 242: 466vczmxdndg1nb72eightwos
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 13061
+Line 243: 7cjdrthreecqztq
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 13138
+Line 244: 21nine1zkmonedxkcdzjbxt
+Left = 2
+Right = 1
+Left = 2, Right = 1, Value = 21, Total = 13159
+Line 245: 8ncgsfour1four3sftqgjzn3
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 13242
+Line 246: nine175xgrqdqhrk
+Left = 1
+Right = 5
+Left = 1, Right = 5, Value = 15, Total = 13257
+Line 247: n2251fourjqvktskn6
+Right = 6
+Left = 2
+Left = 2, Right = 6, Value = 26, Total = 13283
+Line 248: tbbffonefhrvrvbzstkn53lbgvmgvxk5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 13338
+Line 249: 7fsmfjvclp
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 13415
+Line 250: 8one487sixone
+Left = 8
+Right = 7
+Left = 8, Right = 7, Value = 87, Total = 13502
+Line 251: 16fivetwo
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 13518
+Line 252: fournpzbgbm4ktfzljstvgqlxhlb
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 13562
+Line 253: six1bjrpnxvsixtwo7hkcqvmzhvtx
+Left = 1
+Right = 7
+Left = 1, Right = 7, Value = 17, Total = 13579
+Line 254: 4dxmlvlcqvmmssgbxpkt713eight
+Left = 4
+Right = 3
+Left = 4, Right = 3, Value = 43, Total = 13622
+Line 255: 1qkdnjqsixqnhzrgzzninexgcqdmqnmr
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 13633
+Line 256: xfgctwofour9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 13732
+Line 257: 8smfive
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 13820
+Line 258: five79
+Right = 9
+Left = 7
+Left = 7, Right = 9, Value = 79, Total = 13899
+Line 259: three5vllhhcpb
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 13954
+Line 260: 1seveneightone1
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 13965
+Line 261: eight9five5vvxbfbmmb4hfhg4
+Right = 4
+Left = 9
+Left = 9, Right = 4, Value = 94, Total = 14059
+Line 262: 7bfourzkjdlgqseight
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 14136
+Line 263: 15oneonesevenjhrtspkdnine6
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 14152
+Line 264: vrlprgnm4tppcsdtbtnninegtcktsd7
+Right = 7
+Left = 4
+Left = 4, Right = 7, Value = 47, Total = 14199
+Line 265: xtwone4pvdzstrzjg
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 14243
+Line 266: 1nine6
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 14259
+Line 267: fjvrdrfgxjjl16threefivefqdtcgffourfour
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 14275
+Line 268: 5sevenmpdhkqgmbkzjxgmxqnzjblxfour3xcftlvnrtm
+Left = 5
+Right = 3
+Left = 5, Right = 3, Value = 53, Total = 14328
+Line 269: sixk7qzjseveng
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 14405
+Line 270: 6b
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 14471
+Line 271: three97
+Right = 7
+Left = 9
+Left = 9, Right = 7, Value = 97, Total = 14568
+Line 272: 3ninefmjrptbmzz8hdbhfgnsjqbdzlvpnvfourtwo
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 14606
+Line 273: rtwonefcfvtdblsmzjfiveninesixeight7rbnjk6
+Right = 6
+Left = 7
+Left = 7, Right = 6, Value = 76, Total = 14682
+Line 274: jcxzrfc4dtzjszs
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 14726
+Line 275: seven7nine1twoqqxmhrqhrj
+Left = 7
+Right = 1
+Left = 7, Right = 1, Value = 71, Total = 14797
+Line 276: xdgbtltctonebncjcdzmgcgqkgmddx9four
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 14896
+Line 277: 4zzpszsevenfourseventkrkclmxp5nine
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 14941
+Line 278: 7eight278nmmk
+Left = 7
+Right = 8
+Left = 7, Right = 8, Value = 78, Total = 15019
+Line 279: 7ninezxqdqc
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 15096
+Line 280: 3jfxsxtwozltwo3
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 15129
+Line 281: six7tkzgnkgblsxhfkrxbhfttqninepjxfpmnhthree
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 15206
+Line 282: 5fivegzlsblkd
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 15261
+Line 283: vc4kkrrnpqhvktvtvgbxxv2bqrzbfzc38seven
+Left = 4
+Right = 8
+Left = 4, Right = 8, Value = 48, Total = 15309
+Line 284: 9twoninefive2ffmfft3seven8
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 15407
+Line 285: 644jjzz7
+Left = 6
+Right = 7
+Left = 6, Right = 7, Value = 67, Total = 15474
+Line 286: xttlbjzonetwoldm9seventwoeightvsl
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 15573
+Line 287: geightwofourtwonine6
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 15639
+Line 288: 6six26gkj2
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 15701
+Line 289: cqczz1dvhthree9three28six
+Right = 8
+Left = 1
+Left = 1, Right = 8, Value = 18, Total = 15719
+Line 290: five6sevenrlqsv9ftptrx2
+Right = 2
+Left = 6
+Left = 6, Right = 2, Value = 62, Total = 15781
+Line 291: nlkqjgtcrxsfgnrc7khkndqrzckdjsbncrtdhbhbd91one
+Right = 1
+Left = 7
+Left = 7, Right = 1, Value = 71, Total = 15852
+Line 292: rvnmlpbjnj5lmr
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 15907
+Line 293: qqtwoxtwo1crtgqdd9four
+Right = 9
+Left = 1
+Left = 1, Right = 9, Value = 19, Total = 15926
+Line 294: onesevenvchtfkbfkgzrhzhpsg3six
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 15959
+Line 295: three3nine31tjnjphs2mnz
+Right = 2
+Left = 3
+Left = 3, Right = 2, Value = 32, Total = 15991
+Line 296: ninecszcvfn14eightthreedjhtxsrczjqgvpgm
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 16005
+Line 297: qqkgsrkhplfive61onenbpzxhm6t
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 16071
+Line 298: njgbzgvddqzdz4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 16115
+Line 299: 9two5eighttwoggrscndllxjsqhp2s
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 16207
+Line 300: seven417
+Right = 7
+Left = 4
+Left = 4, Right = 7, Value = 47, Total = 16254
+Line 301: skgvnd5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 16309
+Line 302: fzvlthreecrlqftlqvfh7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 16386
+Line 303: seven6843sixnggrpk3
+Right = 3
+Left = 6
+Left = 6, Right = 3, Value = 63, Total = 16449
+Line 304: sixxdmpcbfjp1bnq
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 16460
+Line 305: ninetgkhf3sixrnninebd
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 16493
+Line 306: eight3eight
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 16526
+Line 307: rbjvzeighttxqblqcdspxxhkhzfkrlmszgblqf2nine
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 16548
+Line 308: 986qctmpblbx
+Left = 9
+Right = 6
+Left = 9, Right = 6, Value = 96, Total = 16644
+Line 309: 8three1seveneightone
+Left = 8
+Right = 1
+Left = 8, Right = 1, Value = 81, Total = 16725
+Line 310: 9pzzxg76
+Left = 9
+Right = 6
+Left = 9, Right = 6, Value = 96, Total = 16821
+Line 311: 3287sevennine8frpsgpnprtj
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 16859
+Line 312: 2bfb6nineztzlqfbz
+Left = 2
+Right = 6
+Left = 2, Right = 6, Value = 26, Total = 16885
+Line 313: 9one1four
+Left = 9
+Right = 1
+Left = 9, Right = 1, Value = 91, Total = 16976
+Line 314: sixfgmxklczhfbkkdfournine85
+Right = 5
+Left = 8
+Left = 8, Right = 5, Value = 85, Total = 17061
+Line 315: zgc1c3kclrjdb4oneightpvp
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 17075
+Line 316: eight7threefnrggkvjd
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 17152
+Line 317: 22fourxznjjjlfivefour
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 17174
+Line 318: 8vvmcjcdtpnnd44
+Left = 8
+Right = 4
+Left = 8, Right = 4, Value = 84, Total = 17258
+Line 319: cgdnsdnmq9lqmxdbl8five
+Right = 8
+Left = 9
+Left = 9, Right = 8, Value = 98, Total = 17356
+Line 320: ckfqmnine9twofour2
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 17448
+Line 321: 36onelkmfqp12kmvone
+Left = 3
+Right = 2
+Left = 3, Right = 2, Value = 32, Total = 17480
+Line 322: 79qsstc6tmmdjflqftwofivedvnlmkj
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 17556
+Line 323: sixb2six2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 17578
+Line 324: 9sixkbqhfive
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 17677
+Line 325: xhvsst4twoxvkrjgjtzs5bxgqhvrkrl
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 17722
+Line 326: foursz4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 17766
+Line 327: three6mtdhqrjgbtwosjf
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 17832
+Line 328: threefourrrdfvzgngstwo783twotwo
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 17905
+Line 329: fmnccmdrrdtwoseven6
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 17971
+Line 330: tnktpgvgrgf2nine
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 17993
+Line 331: fivehkccqppjvbhkffour3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 18026
+Line 332: 8five6cksevenmqg
+Left = 8
+Right = 6
+Left = 8, Right = 6, Value = 86, Total = 18112
+Line 333: fqm321six
+Left = 3
+Right = 1
+Left = 3, Right = 1, Value = 31, Total = 18143
+Line 334: 4twofour4
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 18187
+Line 335: xbeightxone5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 18242
+Line 336: hnzfbzqhc8xnbssjpxnfour5
+Right = 5
+Left = 8
+Left = 8, Right = 5, Value = 85, Total = 18327
+Line 337: seventwoddtnl93threetwo2
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 18419
+Line 338: nine36two37xxbszmhkc
+Left = 3
+Right = 7
+Left = 3, Right = 7, Value = 37, Total = 18456
+Line 339: three4xkjqrpvhvqtb
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 18500
+Line 340: dtln7fivejfcgrxm5fivethtnfxl
+Left = 7
+Right = 5
+Left = 7, Right = 5, Value = 75, Total = 18575
+Line 341: threeone8threethreetwo3jslhltsb
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 18658
+Line 342: 8ninetwonnseventwoseveneightfour
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 18746
+Line 343: nine1rffvrkjpjdjzqnnrzqspqn
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 18757
+Line 344: oneninefourbrqrhljnxsggpsix8
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 18845
+Line 345: 9kkgq4nine3seven
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 18938
+Line 346: 4fivemldkdcxkszbjbm8qnhbhsixseven1
+Left = 4
+Right = 1
+Left = 4, Right = 1, Value = 41, Total = 18979
+Line 347: jprktjkhp8
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 19067
+Line 348: threesixsixthree4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 19111
+Line 349: lrtpddd5gmcgl
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 19166
+Line 350: ninejflqzhgkzcfour34
+Right = 4
+Left = 3
+Left = 3, Right = 4, Value = 34, Total = 19200
+Line 351: sixeightvmqrgfmjrsf4jmcfqfpzxx
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 19244
+Line 352: qkrnqjbqpsvhc22nine9eightjx
+Right = 9
+Left = 2
+Left = 2, Right = 9, Value = 29, Total = 19273
+Line 353: gvnine29sevenllzkqmg
+Left = 2
+Right = 9
+Left = 2, Right = 9, Value = 29, Total = 19302
+Line 354: 7one7rts8nine93
+Left = 7
+Right = 3
+Left = 7, Right = 3, Value = 73, Total = 19375
+Line 355: 46ninetwoztsbfgh
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 19421
+Line 356: 6xjzrdvninesixjkhcs9
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 19490
+Line 357: lccxbmpplkl9fourthree7bhnssdone
+Right = 7
+Left = 9
+Left = 9, Right = 7, Value = 97, Total = 19587
+Line 358: eight2oneoneonenine3jpz
+Right = 3
+Left = 2
+Left = 2, Right = 3, Value = 23, Total = 19610
+Line 359: six2bsdvnhmzlmtdlbmt12eightsix
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 19632
+Line 360: nineone49pnkgdtfrqk
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 19681
+Line 361: zfivecxbmvb8dtpfhbxfour
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 19769
+Line 362: tjf97gbzfksdfmfzqvtjtd39four
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 19868
+Line 363: six49fourlnld
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 19917
+Line 364: 4sevenone7
+Left = 4
+Right = 7
+Left = 4, Right = 7, Value = 47, Total = 19964
+Line 365: 9pnznzbktseven
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 20063
+Line 366: 5262hgdzhhjdp4three
+Left = 5
+Right = 4
+Left = 5, Right = 4, Value = 54, Total = 20117
+Line 367: seven3six68six
+Right = 8
+Left = 3
+Left = 3, Right = 8, Value = 38, Total = 20155
+Line 368: qfdx92four2
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 20247
+Line 369: 2xdfrdmd13lseven4mkz3
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 20270
+Line 370: threeonethreekmpstnineeighteight4eightwopt
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 20314
+Line 371: six1qhcdfmqslsxphtnxnonethree
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 20325
+Line 372: d7rprdfbzmj
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 20402
+Line 373: three8pzvgrmvq
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 20490
+Line 374: hgcvfttsztwo9eightwop
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 20589
+Line 375: mthreedhr78hxbzrzrmk7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 20666
+Line 376: rfdbgxlxdccgmrlbglc9642fourthree
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 20758
+Line 377: eight9sevensevensix8ghhjnhqqsixkzzsg
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 20856
+Line 378: 3jvqhs
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 20889
+Line 379: nnrpvtqvdgst68tltjjgnine1dr
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 20950
+Line 380: 5fmldhrxfmqfourhkfqdlsphddzqxm8seven5one
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 21005
+Line 381: two5eightcdrnjmjjdbxrptmptxntwo
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 21060
+Line 382: 54threehnlf5
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 21115
+Line 383: hvgshlg2dclxlvjfsneightsix
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 21137
+Line 384: 44two2b
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 21179
+Line 385: 9mcbjxjknzflvcklllxnllvfourfivefnzrvqtnjx8
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 21277
+Line 386: eight2hbknv6
+Right = 6
+Left = 2
+Left = 2, Right = 6, Value = 26, Total = 21303
+Line 387: three3sevenpgh
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 21336
+Line 388: 3dxgrslvqxbztkkxbhxfourfive9
+Left = 3
+Right = 9
+Left = 3, Right = 9, Value = 39, Total = 21375
+Line 389: 972skvkskj
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 21467
+Line 390: 6xtkqrddn6shvtnmbxfrhjnmhnine
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 21533
+Line 391: 9four6lxlbbfiveone9
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 21632
+Line 392: five6429
+Right = 9
+Left = 6
+Left = 6, Right = 9, Value = 69, Total = 21701
+Line 393: 6798one3sixjfive
+Left = 6
+Right = 3
+Left = 6, Right = 3, Value = 63, Total = 21764
+Line 394: fxggjgckkjftwo7cqjgsz9lngfdr8six
+Right = 8
+Left = 7
+Left = 7, Right = 8, Value = 78, Total = 21842
+Line 395: btdp9sixh1
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 21933
+Line 396: 8threejhllninezzbrdhxxgqlszhnnhfsf9
+Left = 8
+Right = 9
+Left = 8, Right = 9, Value = 89, Total = 22022
+Line 397: 6twofbprcrrmvmgshsx9vcmxskpngbp
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 22091
+Line 398: 9fivefivelnnsmnine
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 22190
+Line 399: p5zrcvkt2five
+Left = 5
+Right = 2
+Left = 5, Right = 2, Value = 52, Total = 22242
+Line 400: lcjc9pfrfzfoursix2
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 22334
+Line 401: jjklqm1eight78onefour6
+Right = 6
+Left = 1
+Left = 1, Right = 6, Value = 16, Total = 22350
+Line 402: 3qpjqc59eight
+Left = 3
+Right = 9
+Left = 3, Right = 9, Value = 39, Total = 22389
+Line 403: 69mdnmptnl1
+Left = 6
+Right = 1
+Left = 6, Right = 1, Value = 61, Total = 22450
+Line 404: five22
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 22472
+Line 405: 2three5
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 22497
+Line 406: seven38nine
+Right = 8
+Left = 3
+Left = 3, Right = 8, Value = 38, Total = 22535
+Line 407: four7zvc8drlvxzjfivetwo1
+Right = 1
+Left = 7
+Left = 7, Right = 1, Value = 71, Total = 22606
+Line 408: 1zhgcngbx4two
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 22620
+Line 409: 6mhvbfkkrvsevenfoureightseven3
+Left = 6
+Right = 3
+Left = 6, Right = 3, Value = 63, Total = 22683
+Line 410: d7dgsix3fivesevenvnqtvgl
+Left = 7
+Right = 3
+Left = 7, Right = 3, Value = 73, Total = 22756
+Line 411: 3hlrt1
+Left = 3
+Right = 1
+Left = 3, Right = 1, Value = 31, Total = 22787
+Line 412: 2kdtzxfive33
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 22810
+Line 413: xzrzjrkvsfqxcrjtl23eightone
+Right = 3
+Left = 2
+Left = 2, Right = 3, Value = 23, Total = 22833
+Line 414: jcxxhvvddglmnqr8vxvj
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 22921
+Line 415: two5rbxsbgngcbfour
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 22976
+Line 416: 8four56tmvqcccm1twosevenfour
+Left = 8
+Right = 1
+Left = 8, Right = 1, Value = 81, Total = 23057
+Line 417: skhhxgrjh5vmvgpnqlbqvvz
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 23112
+Line 418: 4tttnbkzjdvbgfpthtkt2xnine
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 23154
+Line 419: tfpdnineseven229
+Right = 9
+Left = 2
+Left = 2, Right = 9, Value = 29, Total = 23183
+Line 420: 5foursixone
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 23238
+Line 421: eight89nine8fjhbnzn675
+Right = 5
+Left = 8
+Left = 8, Right = 5, Value = 85, Total = 23323
+Line 422: rvzbmc4eight1bbzfjcpq
+Left = 4
+Right = 1
+Left = 4, Right = 1, Value = 41, Total = 23364
+Line 423: cpj1eightsevengpvmvgjpg1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 23375
+Line 424: 46xdsnvbmnine9212
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 23417
+Line 425: rhklrcb912czkkcvbbqc
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 23509
+Line 426: one22sevenp5
+Right = 5
+Left = 2
+Left = 2, Right = 5, Value = 25, Total = 23534
+Line 427: 7hmgfgmmr
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 23611
+Line 428: 41sqhchvkz2qsrlcsmqgeightqdxlxtgkjdf
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 23653
+Line 429: gbtxgtrzz6fjffgvrddh
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 23719
+Line 430: m5threeoneonenine9
+Right = 9
+Left = 5
+Left = 5, Right = 9, Value = 59, Total = 23778
+Line 431: foureightfive3zn
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 23811
+Line 432: 9ninek6nfqrlrmhcg3five
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 23904
+Line 433: six3fqrvmrcrspsix7ptsseight
+Left = 3
+Right = 7
+Left = 3, Right = 7, Value = 37, Total = 23941
+Line 434: 2pqpqgppm63ccptb
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 23964
+Line 435: rtdsxdz53seveneightsixzbtrbbm
+Left = 5
+Right = 3
+Left = 5, Right = 3, Value = 53, Total = 24017
+Line 436: 8mpfnpgts75
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 24102
+Line 437: 1one8pzcdhfive45eightgspms
+Left = 1
+Right = 5
+Left = 1, Right = 5, Value = 15, Total = 24117
+Line 438: 47mppvdxfmp
+Left = 4
+Right = 7
+Left = 4, Right = 7, Value = 47, Total = 24164
+Line 439: nzjkpheightnine87two
+Right = 7
+Left = 8
+Left = 8, Right = 7, Value = 87, Total = 24251
+Line 440: 8threetwo1skqcg1two3
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 24334
+Line 441: 4ftz7fourlzeightwodvh
+Left = 4
+Right = 7
+Left = 4, Right = 7, Value = 47, Total = 24381
+Line 442: sevenzvjpfsnjgtc78two4fourone
+Right = 4
+Left = 7
+Left = 7, Right = 4, Value = 74, Total = 24455
+Line 443: 591zvdzpxtlgggsccrzb
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 24506
+Line 444: btwonesix66seven9three17xpxp
+Right = 7
+Left = 6
+Left = 6, Right = 7, Value = 67, Total = 24573
+Line 445: nine66mhbn3djhhrcgcfsseven
+Left = 6
+Right = 3
+Left = 6, Right = 3, Value = 63, Total = 24636
+Line 446: 4twoeight
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 24680
+Line 447: 9five3five
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 24773
+Line 448: 1nine7eight
+Left = 1
+Right = 7
+Left = 1, Right = 7, Value = 17, Total = 24790
+Line 449: mbvrdkqtnqeightxn751threedmrd
+Right = 1
+Left = 7
+Left = 7, Right = 1, Value = 71, Total = 24861
+Line 450: nine1one
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 24872
+Line 451: eighttsffqxtq9ljshbsczj1bggsxgn
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 24963
+Line 452: cfivedtkkmnrzrbzxnm5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 25018
+Line 453: kxzq362
+Right = 2
+Left = 3
+Left = 3, Right = 2, Value = 32, Total = 25050
+Line 454: four51kzxrhhtqc9sixfjdjfivefive
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 25109
+Line 455: seventwoone4seven3sixsevenfive
+Left = 4
+Right = 3
+Left = 4, Right = 3, Value = 43, Total = 25152
+Line 456: twoxrdhtdhxcvtmpv7tzr2two
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 25224
+Line 457: zblkqzptx93kqbrjlhdvbsdqeight
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 25317
+Line 458: 18one68v
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 25335
+Line 459: 2rhxdnccbnh31
+Left = 2
+Right = 1
+Left = 2, Right = 1, Value = 21, Total = 25356
+Line 460: seven6dcbpgpnx
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 25422
+Line 461: 22nine74sixzvmdbjnr7zmqgp
+Left = 2
+Right = 7
+Left = 2, Right = 7, Value = 27, Total = 25449
+Line 462: 7zlbjfmvb22eightpfjdcpf
+Left = 7
+Right = 2
+Left = 7, Right = 2, Value = 72, Total = 25521
+Line 463: 82nkckplqhmfourfourfmsixqpjdnpzht
+Left = 8
+Right = 2
+Left = 8, Right = 2, Value = 82, Total = 25603
+Line 464: 2onemftzcffcxl
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 25625
+Line 465: lqonethree464kvfnqzg
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 25669
+Line 466: 9lsbonegzgkqhc3
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 25762
+Line 467: three4twoninexc
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 25806
+Line 468: 2qtkpmmzcvjsqsttsevenfourpgp
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 25828
+Line 469: rfsz9tltpgfh4ncgcmzcvkssmjl7dhlpjdr
+Left = 9
+Right = 7
+Left = 9, Right = 7, Value = 97, Total = 25925
+Line 470: kfivesixfivet8six
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 26013
+Line 471: gppsqngmmzdt16sevenbxnxqxsevensxnkqvtggbz
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 26029
+Line 472: qsldvhvcnj4j1jmlcjhkdkntbrdqch
+Left = 4
+Right = 1
+Left = 4, Right = 1, Value = 41, Total = 26070
+Line 473: rlxnrbns6eightvcqmqrbdeighttjssrnvf1nine
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 26131
+Line 474: 9sevennhtslbkfourq2
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 26223
+Line 475: 9zgfnssevenngmsx8three
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 26321
+Line 476: 9bkkqfhjzpc7vklvrkx
+Left = 9
+Right = 7
+Left = 9, Right = 7, Value = 97, Total = 26418
+Line 477: qtwoc8six8
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 26506
+Line 478: fcvdseven95
+Right = 5
+Left = 9
+Left = 9, Right = 5, Value = 95, Total = 26601
+Line 479: 4threeseven
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 26645
+Line 480: two494
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 26689
+Line 481: twothree5one37sevenseven2
+Right = 2
+Left = 5
+Left = 5, Right = 2, Value = 52, Total = 26741
+Line 482: 4nxcnfiveeighttwoshjcqghjfx9one
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 26790
+Line 483: onefour9one
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 26889
+Line 484: four79kzn36
+Right = 6
+Left = 7
+Left = 7, Right = 6, Value = 76, Total = 26965
+Line 485: 23xck5smtkrzbqdc5
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 26990
+Line 486: 3xcthreesixmtprspzdeightfnpgvpnfourtwo
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 27023
+Line 487: m5ksjbcnine7
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 27080
+Line 488: five1threegrgv522
+Right = 2
+Left = 1
+Left = 1, Right = 2, Value = 12, Total = 27092
+Line 489: 2fourfiveblxxzpgbntncpbqsxpztndx3
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 27115
+Line 490: st6
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 27181
+Line 491: 3twohcpttzfcr36
+Left = 3
+Right = 6
+Left = 3, Right = 6, Value = 36, Total = 27217
+Line 492: three9zhzglqcrhtstxzrdlxkl
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 27316
+Line 493: 3two45
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 27351
+Line 494: 3rqcqnxhctrseven3
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 27384
+Line 495: kmz7cxb9llmnctbnrf77eight
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 27461
+Line 496: rmghxpfzpktwo1twosmhcgzd9
+Right = 9
+Left = 1
+Left = 1, Right = 9, Value = 19, Total = 27480
+Line 497: lpqknxtkq84
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 27564
+Line 498: cknbzcl5btmlzzrbxgponecfbvj1sevenms
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 27615
+Line 499: 3jdvpb71sn9eightngpv
+Left = 3
+Right = 9
+Left = 3, Right = 9, Value = 39, Total = 27654
+Line 500: 7bthreeone
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 27731
+Line 501: kconeight6913sevenninenine2five
+Right = 2
+Left = 6
+Left = 6, Right = 2, Value = 62, Total = 27793
+Line 502: eight924five1
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 27884
+Line 503: 1onefivetwo
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 27895
+Line 504: xqdddcsj4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 27939
+Line 505: bplrgcxfrb5twonine8threesixkfdvcfive
+Left = 5
+Right = 8
+Left = 5, Right = 8, Value = 58, Total = 27997
+Line 506: nine9five7jlceightninetwo
+Left = 9
+Right = 7
+Left = 9, Right = 7, Value = 97, Total = 28094
+Line 507: eightqpbmgjbcsevenbfnqeight48
+Right = 8
+Left = 4
+Left = 4, Right = 8, Value = 48, Total = 28142
+Line 508: jt1vbsc
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 28153
+Line 509: klzrqpvdvnjhsevensix36
+Right = 6
+Left = 3
+Left = 3, Right = 6, Value = 36, Total = 28189
+Line 510: fdt1rvr
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 28200
+Line 511: hhxhfivetvfvxqzjlcqdrgzlk2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 28222
+Line 512: 98three
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 28320
+Line 513: 1259eight3twooneone
+Left = 1
+Right = 3
+Left = 1, Right = 3, Value = 13, Total = 28333
+Line 514: threejxnffgl35five1
+Right = 1
+Left = 3
+Left = 3, Right = 1, Value = 31, Total = 28364
+Line 515: 7jvbnqhtwo75sgnine
+Left = 7
+Right = 5
+Left = 7, Right = 5, Value = 75, Total = 28439
+Line 516: three31hcccbxknpgltnchp
+Left = 3
+Right = 1
+Left = 3, Right = 1, Value = 31, Total = 28470
+Line 517: btjfdjkgvhlhkzsfptsbpmbx6four1
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 28531
+Line 518: 79sonesevengvbbbltmdmfdbp6
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 28607
+Line 519: 4sevenseven45qmthm85
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 28652
+Line 520: 1rcflgtmfmmllljsfxbxnfour
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 28663
+Line 521: ssbjlfglgfcdzqs8onekrkhq6
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 28749
+Line 522: pknfvzxgmf35
+Right = 5
+Left = 3
+Left = 3, Right = 5, Value = 35, Total = 28784
+Line 523: 7sqkqqbtwonine4six
+Left = 7
+Right = 4
+Left = 7, Right = 4, Value = 74, Total = 28858
+Line 524: seven1ptdbrxrptn
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 28869
+Line 525: tgbfxzzhqfnine4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 28913
+Line 526: qbfgvpkz7twotv
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 28990
+Line 527: 8nineqnmlsrzlfgfourthree
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 29078
+Line 528: onesix5ptmndhpbpnftdm8rxmhrqczptfdxz
+Left = 5
+Right = 8
+Left = 5, Right = 8, Value = 58, Total = 29136
+Line 529: onesixnine77fdrscvmlmhptwovjdmvlx
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 29213
+Line 530: 34twotfiveoneone4
+Left = 3
+Right = 4
+Left = 3, Right = 4, Value = 34, Total = 29247
+Line 531: pstlglpjbxkjtlxn8foursixfbzfnvbzc26
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 29333
+Line 532: vrkdcsix4three19mnxftczrvhq
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 29382
+Line 533: sixjtg9two9rfourjpkzqfnqphsqpz
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 29481
+Line 534: pgfffmgr8kxjmsixsevenmzc5
+Right = 5
+Left = 8
+Left = 8, Right = 5, Value = 85, Total = 29566
+Line 535: z3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 29599
+Line 536: lh2hzkdqtgznknhdczseightkbzpc7eightzbr
+Left = 2
+Right = 7
+Left = 2, Right = 7, Value = 27, Total = 29626
+Line 537: eightnineknhdxzst1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 29637
+Line 538: 615
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 29702
+Line 539: 8tdxphfhmjtfourpljvmmsevenone
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 29790
+Line 540: ghxsrlf6mvmhd
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 29856
+Line 541: onepf8gdthreetwoeightmrfpmgdngeightoneightdr
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 29944
+Line 542: 37fbvnqxpkk1165
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 29979
+Line 543: stkrqtqdphrtjg7zkcnmc2fourz
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 30051
+Line 544: six68sevenfive
+Left = 6
+Right = 8
+Left = 6, Right = 8, Value = 68, Total = 30119
+Line 545: five7fiverpkmcjhjhvfnjjxcmbgv
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 30196
+Line 546: vhkmjlfgfxtkmqmcffour4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 30240
+Line 547: seventhree6twosixdjnhd1
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 30301
+Line 548: fournineone7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 30378
+Line 549: nrxtnmfstwodspstvjxfive8rb
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 30466
+Line 550: 5onexchcrjkbxfmzcqlsfivesevendtwonercb
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 30521
+Line 551: four4two3
+Right = 3
+Left = 4
+Left = 4, Right = 3, Value = 43, Total = 30564
+Line 552: fivetwolvzbjjhsone6nbnnine2hcpqhkdtc
+Right = 2
+Left = 6
+Left = 6, Right = 2, Value = 62, Total = 30626
+Line 553: 16four52fiveseventwo
+Left = 1
+Right = 2
+Left = 1, Right = 2, Value = 12, Total = 30638
+Line 554: 7pgksgsqmgeight
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 30715
+Line 555: bmltbvsone3onesixcgstfmfb2
+Right = 2
+Left = 3
+Left = 3, Right = 2, Value = 32, Total = 30747
+Line 556: dvoneight8sevenseven
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 30835
+Line 557: 5cgpnxxvjp8ninethree
+Left = 5
+Right = 8
+Left = 5, Right = 8, Value = 58, Total = 30893
+Line 558: seventtqbmtwotwobblpcfkmnsbhhncbdxr7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 30970
+Line 559: lkmlldgsthree2eightm17qfqjklpsbk
+Right = 7
+Left = 2
+Left = 2, Right = 7, Value = 27, Total = 30997
+Line 560: kbhs54four137
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 31054
+Line 561: kljbrzflhmxnlfcfctcpkfnjtwosdk8fvzmgkrgzjfnlrzn
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 31142
+Line 562: 4hrgzfjfourlvmps
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 31186
+Line 563: onexnskbm6mbkt
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 31252
+Line 564: threeqgjmchthree5zzkrtxfvshdtf
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 31307
+Line 565: ptvbq23jshqbdtbzdsmvone
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 31330
+Line 566: 1nineeightsevenkc8sixfour
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 31348
+Line 567: jg1foursevensixtwobpxjvgb
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 31359
+Line 568: 4ninepbbltwo
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 31403
+Line 569: clcx7jktrcftjone1seven
+Left = 7
+Right = 1
+Left = 7, Right = 1, Value = 71, Total = 31474
+Line 570: cpgflmrcmnpjf2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 31496
+Line 571: z9mrdbeight4nine51
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 31587
+Line 572: gkdrkvhctthh7four
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 31664
+Line 573: tddgpnineksbfnxfcdg13
+Right = 3
+Left = 1
+Left = 1, Right = 3, Value = 13, Total = 31677
+Line 574: 8seven2xpjjrsjq2
+Left = 8
+Right = 2
+Left = 8, Right = 2, Value = 82, Total = 31759
+Line 575: p7hxnffff
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 31836
+Line 576: qnkhxznfzznr2fpqrvcczfksixjlctk
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 31858
+Line 577: 8threenine3five9fiveone
+Left = 8
+Right = 9
+Left = 8, Right = 9, Value = 89, Total = 31947
+Line 578: hslgtz3715fsseven
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 31982
+Line 579: qqoneightbbb9bfjxrddrdx2vcb
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 32074
+Line 580: 1bcdhpjnsrgkgrd
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 32085
+Line 581: six6kvldqqkn
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 32151
+Line 582: 6sevenhrltpblmpk5ninedjm
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 32216
+Line 583: hdgpmcrdnnzlplnpone8jtlhsdncchnfrk34kspgmvmf
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 32300
+Line 584: seven5hcz
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 32355
+Line 585: 739
+Left = 7
+Right = 9
+Left = 7, Right = 9, Value = 79, Total = 32434
+Line 586: hgsxrddmtqfour6ninenine
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 32500
+Line 587: eight8sixoneonenjtgtqbkj
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 32588
+Line 588: doneight5595eight2lztkfhz
+Right = 2
+Left = 5
+Left = 5, Right = 2, Value = 52, Total = 32640
+Line 589: rxjhxzljgtnlkclfqchrhrlrgk8jr
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 32728
+Line 590: tq1fzfcjrhkslknrzg
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 32739
+Line 591: threethree5pkjnstfp
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 32794
+Line 592: npfsgghgk6cvvxmkxzjxcnztsntonexz56ctphqtg
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 32860
+Line 593: fivesnc66
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 32926
+Line 594: 1bqkdfrr95
+Left = 1
+Right = 5
+Left = 1, Right = 5, Value = 15, Total = 32941
+Line 595: 5ktwoninekcjxqbr9vvhtfbdqbx
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 33000
+Line 596: nine2four3three74
+Right = 4
+Left = 2
+Left = 2, Right = 4, Value = 24, Total = 33024
+Line 597: one9eight946
+Right = 6
+Left = 9
+Left = 9, Right = 6, Value = 96, Total = 33120
+Line 598: six3lv
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 33153
+Line 599: onexbqzeight675oneghjlps
+Right = 5
+Left = 6
+Left = 6, Right = 5, Value = 65, Total = 33218
+Line 600: 9vhqtxfs
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 33317
+Line 601: lxdxcb79
+Right = 9
+Left = 7
+Left = 7, Right = 9, Value = 79, Total = 33396
+Line 602: 8seventwo1vktcvfzd1pbht
+Left = 8
+Right = 1
+Left = 8, Right = 1, Value = 81, Total = 33477
+Line 603: 1five72fftmlknntpvtbnzrthree9zlqblplmg
+Left = 1
+Right = 9
+Left = 1, Right = 9, Value = 19, Total = 33496
+Line 604: 81six93seven6ninehzm
+Left = 8
+Right = 6
+Left = 8, Right = 6, Value = 86, Total = 33582
+Line 605: 9nine27eightthree6f9eightwosg
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 33681
+Line 606: czptqdjg2k2ddsvqjq7
+Right = 7
+Left = 2
+Left = 2, Right = 7, Value = 27, Total = 33708
+Line 607: 511jklrccx
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 33759
+Line 608: 371
+Left = 3
+Right = 1
+Left = 3, Right = 1, Value = 31, Total = 33790
+Line 609: 9zghjmlfbfkdthreexvtlzcsctwonineeight
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 33889
+Line 610: 4twofbpjxrvgjfczglrqfhseven
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 33933
+Line 611: fivethree72sevenfour7three
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 34010
+Line 612: six9three92
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 34102
+Line 613: nlmzndltn2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 34124
+Line 614: 84sixninejtjgxq1fivelpmhhrbrm
+Left = 8
+Right = 1
+Left = 8, Right = 1, Value = 81, Total = 34205
+Line 615: rzrp3three
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 34238
+Line 616: hxrvcmzbcvskthreeone2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 34260
+Line 617: three6dkksxdfour1j
+Right = 1
+Left = 6
+Left = 6, Right = 1, Value = 61, Total = 34321
+Line 618: 68fz2four2twothvq9
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 34390
+Line 619: 4fourrp65qgvktfivemqtbbmfcx
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 34435
+Line 620: joneight9nine
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 34534
+Line 621: lvclrzbrbhtcs8eightthreetkkpcnkzlnbxsffqq4
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 34618
+Line 622: fivehbblpjqttlhlpj5six51nkxqnjzhreight
+Right = 1
+Left = 5
+Left = 5, Right = 1, Value = 51, Total = 34669
+Line 623: fstfdzzdseightone496
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 34715
+Line 624: fivetwoseven678
+Right = 8
+Left = 6
+Left = 6, Right = 8, Value = 68, Total = 34783
+Line 625: six7htzlsx3ngtlthreethree
+Left = 7
+Right = 3
+Left = 7, Right = 3, Value = 73, Total = 34856
+Line 626: threefmljmlcnftsm5jnjkdrjssix
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 34911
+Line 627: 725zvpnsztlnqlhcnnmqkz6
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 34987
+Line 628: 816
+Left = 8
+Right = 6
+Left = 8, Right = 6, Value = 86, Total = 35073
+Line 629: xmvvxkbrzj8kj2one
+Right = 2
+Left = 8
+Left = 8, Right = 2, Value = 82, Total = 35155
+Line 630: fourf9six
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 35254
+Line 631: 4fiveljxvkbr
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 35298
+Line 632: sqjbrkgcnfm2zztm1
+Right = 1
+Left = 2
+Left = 2, Right = 1, Value = 21, Total = 35319
+Line 633: lfcxxkdgzhonethreeseven5pxjgftn
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 35374
+Line 634: 9cmprqhj8
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 35472
+Line 635: fstqjs6threefourthree
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 35538
+Line 636: seventhree1fsix
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 35549
+Line 637: 921
+Left = 9
+Right = 1
+Left = 9, Right = 1, Value = 91, Total = 35640
+Line 638: 7three18vcxksonetjxnth7sbghvghdxt
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 35717
+Line 639: three4vb8
+Right = 8
+Left = 4
+Left = 4, Right = 8, Value = 48, Total = 35765
+Line 640: 9kxqbzxgrktwoonesgrkck
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 35864
+Line 641: fivefivesixseven91gbldflvdvcfvmjp
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 35955
+Line 642: 81five76fqrxbkztgkctghrjjc
+Left = 8
+Right = 6
+Left = 8, Right = 6, Value = 86, Total = 36041
+Line 643: deightwosix5oneqmjftdjhrqknxhrnf7dlmnine
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 36098
+Line 644: znzbpkjtqf36
+Right = 6
+Left = 3
+Left = 3, Right = 6, Value = 36, Total = 36134
+Line 645: eightseven6nine7
+Right = 7
+Left = 6
+Left = 6, Right = 7, Value = 67, Total = 36201
+Line 646: 3jzdjbgznnscsbgnvpzm
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 36234
+Line 647: 9xdjcclsevenfoursevenonedmflz1
+Left = 9
+Right = 1
+Left = 9, Right = 1, Value = 91, Total = 36325
+Line 648: 5pcqcchxsix662
+Left = 5
+Right = 2
+Left = 5, Right = 2, Value = 52, Total = 36377
+Line 649: vfstwonelqlqxbxsgdczpfrshnkvsixndseven1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 36388
+Line 650: 93glfsdkzcnfourninemxmkzvqkl3nine
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 36481
+Line 651: nine72
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 36553
+Line 652: m2qtwo
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 36575
+Line 653: eight72
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 36647
+Line 654: eightz9114
+Right = 4
+Left = 9
+Left = 9, Right = 4, Value = 94, Total = 36741
+Line 655: 4fiveninevpp6tsmtdh
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 36787
+Line 656: eightsix7hfivenine
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 36864
+Line 657: ninefs7tkqgqrrmt3
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 36937
+Line 658: qltwone32sqshrmfglrm
+Left = 3
+Right = 2
+Left = 3, Right = 2, Value = 32, Total = 36969
+Line 659: 3twoxhdkhd5nine5sevensixzfvr
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 37004
+Line 660: 4onenine
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 37048
+Line 661: lgtmhv41sevenrrpvxjjnvxmqpkmkqnine7two
+Right = 7
+Left = 4
+Left = 4, Right = 7, Value = 47, Total = 37095
+Line 662: hdsltkbmnine93eight
+Right = 3
+Left = 9
+Left = 9, Right = 3, Value = 93, Total = 37188
+Line 663: four4eight
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 37232
+Line 664: five2cgn5
+Right = 5
+Left = 2
+Left = 2, Right = 5, Value = 25, Total = 37257
+Line 665: 5one8
+Left = 5
+Right = 8
+Left = 5, Right = 8, Value = 58, Total = 37315
+Line 666: gltnzbkpbnfournineeightdbv91frflzbqdnine
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 37406
+Line 667: oneppzkmsmzgdmbthkqbjpqnine3ctr1ptggbzght
+Right = 1
+Left = 3
+Left = 3, Right = 1, Value = 31, Total = 37437
+Line 668: 6ffhfponeninejxpjftwo
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 37503
+Line 669: nplmsninefive4dhfhjrc4fived
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 37547
+Line 670: 4three56flbxxntg7six2frd
+Left = 4
+Right = 2
+Left = 4, Right = 2, Value = 42, Total = 37589
+Line 671: 7eightsevenfivem5
+Left = 7
+Right = 5
+Left = 7, Right = 5, Value = 75, Total = 37664
+Line 672: 4cq1htrrt
+Left = 4
+Right = 1
+Left = 4, Right = 1, Value = 41, Total = 37705
+Line 673: vzqkhqddx1kdrgppgcvfqzsbtfseven5
+Right = 5
+Left = 1
+Left = 1, Right = 5, Value = 15, Total = 37720
+Line 674: sevenjd9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 37819
+Line 675: five5eightqhqrqcdzj3mzm5ddzcpg8
+Right = 8
+Left = 5
+Left = 5, Right = 8, Value = 58, Total = 37877
+Line 676: nvhx8fourthree4
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 37961
+Line 677: xjpdjzdn5dltxnvqtkknvxsnqsmn7bzlgp7hdhbvn
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 38018
+Line 678: three1258sevengchvqkqcthreejltlljlf
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 38036
+Line 679: 852
+Left = 8
+Right = 2
+Left = 8, Right = 2, Value = 82, Total = 38118
+Line 680: eight98seven
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 38216
+Line 681: 86fourone1two7dm
+Left = 8
+Right = 7
+Left = 8, Right = 7, Value = 87, Total = 38303
+Line 682: fgr5rseventwo
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 38358
+Line 683: oneglvone99threefour
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 38457
+Line 684: 3seven5sevenvd
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 38492
+Line 685: ccmzm5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 38547
+Line 686: 8ptpbgtteight7
+Left = 8
+Right = 7
+Left = 8, Right = 7, Value = 87, Total = 38634
+Line 687: qrmszjb4two48brcbfrns
+Left = 4
+Right = 8
+Left = 4, Right = 8, Value = 48, Total = 38682
+Line 688: tbzlcnx87five61
+Right = 1
+Left = 8
+Left = 8, Right = 1, Value = 81, Total = 38763
+Line 689: fourxc1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 38774
+Line 690: seven6sixfivenine
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 38840
+Line 691: 9eight97lxkxzr
+Left = 9
+Right = 7
+Left = 9, Right = 7, Value = 97, Total = 38937
+Line 692: ninefivefive1ffvthlldqhm
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 38948
+Line 693: 4nine74jrfhk9
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 38997
+Line 694: 77trlhtdpj75
+Left = 7
+Right = 5
+Left = 7, Right = 5, Value = 75, Total = 39072
+Line 695: 23eightbsmxkkfiveseven
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 39095
+Line 696: mbkpgfzs6kjlxxtjpxpmn
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 39161
+Line 697: sevenlxxlgmmhlxx6fjmonefive
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 39227
+Line 698: fivekprhbdmffr6twosixphphrfmmj6sixeight
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 39293
+Line 699: threefour5threefmsqgsconethreezqbctmvgt
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 39348
+Line 700: eightfoursevensix74rqzsjxncfrgpvjrzb1twoneds
+Right = 1
+Left = 7
+Left = 7, Right = 1, Value = 71, Total = 39419
+Line 701: sixrrmcgnonegczjdzg8one
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 39507
+Line 702: 23seven4zhshxgcgb
+Left = 2
+Right = 4
+Left = 2, Right = 4, Value = 24, Total = 39531
+Line 703: 3oneonefourfourncmxrqlpjnine
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 39564
+Line 704: v4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 39608
+Line 705: ppzvseven5vdzspfzkxzqclzz17eight
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 39665
+Line 706: four83cffour
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 39748
+Line 707: 7oneeightxmxsxt
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 39825
+Line 708: 64vsxsxtqrbtwogxf5sgmz
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 39890
+Line 709: 2kdtvfpcfxfive
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 39912
+Line 710: 5hxtzhmrrgeight
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 39967
+Line 711: threesix46threesevenfour
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 40013
+Line 712: mgnine7three3fiveggdzvbcfpv
+Left = 7
+Right = 3
+Left = 7, Right = 3, Value = 73, Total = 40086
+Line 713: 7two7prhkcbmmmcmcmcchds1j
+Left = 7
+Right = 1
+Left = 7, Right = 1, Value = 71, Total = 40157
+Line 714: eight1cxbsdxcdmksslxgfqg
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 40168
+Line 715: 2ninethreexs467
+Left = 2
+Right = 7
+Left = 2, Right = 7, Value = 27, Total = 40195
+Line 716: 424twoninezncdzjsg
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 40239
+Line 717: 8onethreekfdlfsjzzxslrjrzbqzjrkztsxq
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 40327
+Line 718: xfmdfourz5twozs
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 40382
+Line 719: 163threeseventhree2
+Left = 1
+Right = 2
+Left = 1, Right = 2, Value = 12, Total = 40394
+Line 720: gmqrjcngnp8dpbvhk53
+Right = 3
+Left = 8
+Left = 8, Right = 3, Value = 83, Total = 40477
+Line 721: seveng3zqsix3fivefmqbjmfddn
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 40510
+Line 722: 562hjlcmsddf1ngdpcnqdd
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 40561
+Line 723: 7twoninefourfoursixplmcdzrvkgseven
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 40638
+Line 724: six4seven5zfjqtptxz6
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 40684
+Line 725: fngsfd2fiveone8eightthree
+Left = 2
+Right = 8
+Left = 2, Right = 8, Value = 28, Total = 40712
+Line 726: 3threeninethreethree
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 40745
+Line 727: ninefour29dxrnvqckjgchrljggvkgtj
+Left = 2
+Right = 9
+Left = 2, Right = 9, Value = 29, Total = 40774
+Line 728: jmvprbdqdjbzb7six6fvrgh42
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 40846
+Line 729: 3four854twothree8
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 40884
+Line 730: 7hnfm
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 40961
+Line 731: lvxhprxxtvrzrkspd1fourthree
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 40972
+Line 732: ttsvjrltffvggshsvgc2threefivevg
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 40994
+Line 733: 34krbnqzv6ltvsevenxkqjgtlddlpkcgtt
+Left = 3
+Right = 6
+Left = 3, Right = 6, Value = 36, Total = 41030
+Line 734: lzkvcnine6
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 41096
+Line 735: 91xdpone9threeeighttwo
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 41195
+Line 736: 1vqznbgvgmljmfgtrnbcfseven
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 41206
+Line 737: four2ninekfrxthreethree2eighteight
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 41228
+Line 738: qslkxnljdcshx5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 41283
+Line 739: 8jtjrbgptgfoureightone5
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 41368
+Line 740: xkbninemc6bm
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 41434
+Line 741: six93nine54twonenb
+Left = 9
+Right = 4
+Left = 9, Right = 4, Value = 94, Total = 41528
+Line 742: threer825mm996
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 41614
+Line 743: six1two3sqhgsbgtdggbcbphvhqpzh28
+Right = 8
+Left = 1
+Left = 1, Right = 8, Value = 18, Total = 41632
+Line 744: pbkgmmgpm4seveneightwomqx
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 41676
+Line 745: szkqklg1xrmsfxbkfourhlntqsmkkmjtrbrtwo
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 41687
+Line 746: sevenphxrvpsp38two158
+Right = 8
+Left = 3
+Left = 3, Right = 8, Value = 38, Total = 41725
+Line 747: 64rtglqb67cnmdzrrvx5tqkvbgpqz
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 41790
+Line 748: 3smjtffhhbthreefour225
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 41825
+Line 749: hcdjglmjdtzone7one92cmtmzp9
+Right = 9
+Left = 7
+Left = 7, Right = 9, Value = 79, Total = 41904
+Line 750: jj3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 41937
+Line 751: 3dcbjfzxplnkhhc4
+Left = 3
+Right = 4
+Left = 3, Right = 4, Value = 34, Total = 41971
+Line 752: nxjzbkseven5fivelsz1
+Right = 1
+Left = 5
+Left = 5, Right = 1, Value = 51, Total = 42022
+Line 753: pbheightwo3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 42055
+Line 754: five5bzsdmfive3two
+Right = 3
+Left = 5
+Left = 5, Right = 3, Value = 53, Total = 42108
+Line 755: ninexbtdgdzbbjlgsc1three
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 42119
+Line 756: 2eightslkrhgqfveightxjtvrkgh3
+Left = 2
+Right = 3
+Left = 2, Right = 3, Value = 23, Total = 42142
+Line 757: 234xgqhkkjxnlhggsix9dtlltxkfrthree
+Left = 2
+Right = 9
+Left = 2, Right = 9, Value = 29, Total = 42171
+Line 758: zllsbdrrsix96xone5vhlrjcm
+Right = 5
+Left = 9
+Left = 9, Right = 5, Value = 95, Total = 42266
+Line 759: 433eight5fourvmn25
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 42311
+Line 760: oneseven4sevennine5vrbeight
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 42356
+Line 761: mss7tqqtq
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 42433
+Line 762: 739
+Left = 7
+Right = 9
+Left = 7, Right = 9, Value = 79, Total = 42512
+Line 763: neightwo1threesixsix
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 42523
+Line 764: eightfour3seven
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 42556
+Line 765: one16xfsqdptggonertjlljmdfive
+Left = 1
+Right = 6
+Left = 1, Right = 6, Value = 16, Total = 42572
+Line 766: kccrvbgbhxbpeightnftvldlmthreeplxjsdvr8vgfttwonepm
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 42660
+Line 767: jxbkgpmgdgzjhxgjndtwoeightcgbcrpldzhfm5zjflmfsfs
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 42715
+Line 768: 3ctzrzctj4eightfourfourqhhxtthxpx
+Left = 3
+Right = 4
+Left = 3, Right = 4, Value = 34, Total = 42749
+Line 769: mjtsldxclctgonebhmeight2qgcskfhrxl
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 42771
+Line 770: 59236
+Left = 5
+Right = 6
+Left = 5, Right = 6, Value = 56, Total = 42827
+Line 771: cxqjgsrnndjxxjrghxqpnjrqtzct96knrtm4
+Right = 4
+Left = 9
+Left = 9, Right = 4, Value = 94, Total = 42921
+Line 772: nftone8two2zh19
+Right = 9
+Left = 8
+Left = 8, Right = 9, Value = 89, Total = 43010
+Line 773: 9mczbptwosix
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 43109
+Line 774: zdbqvhnlp77zgzkxsnfzzjq8
+Right = 8
+Left = 7
+Left = 7, Right = 8, Value = 78, Total = 43187
+Line 775: fivefournine7three
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 43264
+Line 776: 4ltdk6mrpmchpzlq
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 43310
+Line 777: fivezxdmdqcctlpknlchdptnine9vd61
+Right = 1
+Left = 9
+Left = 9, Right = 1, Value = 91, Total = 43401
+Line 778: pgdxcdtcrfmknpm9zddsxnncnjrrpj5qhvntbmb
+Right = 5
+Left = 9
+Left = 9, Right = 5, Value = 95, Total = 43496
+Line 779: 57867
+Left = 5
+Right = 7
+Left = 5, Right = 7, Value = 57, Total = 43553
+Line 780: 39kqfghxs
+Left = 3
+Right = 9
+Left = 3, Right = 9, Value = 39, Total = 43592
+Line 781: fivesevenggdv47tstjpjl1
+Right = 1
+Left = 4
+Left = 4, Right = 1, Value = 41, Total = 43633
+Line 782: 5kvzngbgvmvtwo
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 43688
+Line 783: rnvpnkv2threeeighttwonssnzf
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 43710
+Line 784: ngqqbgtwoprqdnfmtntmbbrmgkrmgseven8
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 43798
+Line 785: 9twoqczhkzcdeightwovv
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 43897
+Line 786: 7vtjrdxfive
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 43974
+Line 787: hlkfp8four
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 44062
+Line 788: 7mvhrltsixmfmfkxvpxc6twoseven
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 44138
+Line 789: 2cpprnmhbsixzxb61
+Left = 2
+Right = 1
+Left = 2, Right = 1, Value = 21, Total = 44159
+Line 790: qg8eightseven6vljxh3md
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 44242
+Line 791: one3poneone5lknlsix
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 44277
+Line 792: bjtwoseven9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 44376
+Line 793: 7fourglfpnlfbhndmgmnfdvzmgfjxrmzgsfcknzschlvjk
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 44453
+Line 794: lhqfzhdccrcscgqskbmskjxndffq8ninemdzk
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 44541
+Line 795: 8glcmfjqnv5gdgccvqthdpzshsn
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 44626
+Line 796: two2five3two4qgf
+Left = 2
+Right = 4
+Left = 2, Right = 4, Value = 24, Total = 44650
+Line 797: 5nineseven
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 44705
+Line 798: 12oneightt
+Left = 1
+Right = 2
+Left = 1, Right = 2, Value = 12, Total = 44717
+Line 799: sixsevenninejjgkdmsnjgzfzxf46
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 44763
+Line 800: five63six31ppkvgdczbf3
+Right = 3
+Left = 6
+Left = 6, Right = 3, Value = 63, Total = 44826
+Line 801: 4sxxghjbmdcf8sgzsf4vfninethree
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 44870
+Line 802: cqmjgbkone6eightnn
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 44936
+Line 803: onesixonexdtsix8fourhdgbmzvp
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 45024
+Line 804: 6l2fvjpbssvc
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 45086
+Line 805: xflcsglfjq93nhrrpl9eight
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 45185
+Line 806: bgthdvljfivecbxjn69
+Right = 9
+Left = 6
+Left = 6, Right = 9, Value = 69, Total = 45254
+Line 807: twodmzspjstfccxq2twodzlfbsq
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 45276
+Line 808: 669six
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 45345
+Line 809: nbhgctdtxcllvnmgnbvlgpzzq95six2xmbqfmlqq
+Right = 2
+Left = 9
+Left = 9, Right = 2, Value = 92, Total = 45437
+Line 810: 1hxr
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 45448
+Line 811: cvsxtkldqh1jpqnctrz
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 45459
+Line 812: 595fourfive4four
+Left = 5
+Right = 4
+Left = 5, Right = 4, Value = 54, Total = 45513
+Line 813: 59threesevencmckfourfour
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 45572
+Line 814: oneseven78fivelplnpf4eighttwo
+Left = 7
+Right = 4
+Left = 7, Right = 4, Value = 74, Total = 45646
+Line 815: flvqf9ssrgspj
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 45745
+Line 816: nined9pmdcfps5three
+Left = 9
+Right = 5
+Left = 9, Right = 5, Value = 95, Total = 45840
+Line 817: fvxfrf9nineninesixtmkflzkcjfour7
+Right = 7
+Left = 9
+Left = 9, Right = 7, Value = 97, Total = 45937
+Line 818: twongmgdlcxrnvcz8mnxvl4
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 46021
+Line 819: eightonekmzcspxone4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 46065
+Line 820: chn2fxmpfourvds5rnphvp
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 46090
+Line 821: 3eightsevenfbxzstbrpvvbfnhpdqzeightn
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 46123
+Line 822: 9fourseven
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 46222
+Line 823: b35hh
+Left = 3
+Right = 5
+Left = 3, Right = 5, Value = 35, Total = 46257
+Line 824: six7twotwomrgzltfxhzpbrbb
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 46334
+Line 825: eight2twojcbqvjbzb3
+Right = 3
+Left = 2
+Left = 2, Right = 3, Value = 23, Total = 46357
+Line 826: sevenqtxlxshscrb7lhdcjkcnlkvghcgp
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 46434
+Line 827: three4n18six
+Right = 8
+Left = 4
+Left = 4, Right = 8, Value = 48, Total = 46482
+Line 828: threezfqrhhhhklcxhcbdrone9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 46581
+Line 829: 2sevensnzthree2bktctgxm
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 46603
+Line 830: v66
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 46669
+Line 831: threetbkmd51sevennbrmnkflmkj4eight
+Right = 4
+Left = 5
+Left = 5, Right = 4, Value = 54, Total = 46723
+Line 832: four5twockqqgrnine9dnvv6two
+Right = 6
+Left = 5
+Left = 5, Right = 6, Value = 56, Total = 46779
+Line 833: rgvnfourkvcbconeninetdczskglone5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 46834
+Line 834: 82six3four55
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 46919
+Line 835: xjnjstvk66
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 46985
+Line 836: four72
+Right = 2
+Left = 7
+Left = 7, Right = 2, Value = 72, Total = 47057
+Line 837: four9pdgs8twojjchqbqb36
+Right = 6
+Left = 9
+Left = 9, Right = 6, Value = 96, Total = 47153
+Line 838: xgvljsgknqfvz2six2xmpvgxsjeight3
+Right = 3
+Left = 2
+Left = 2, Right = 3, Value = 23, Total = 47176
+Line 839: vcrnl8fourtwo4five
+Right = 4
+Left = 8
+Left = 8, Right = 4, Value = 84, Total = 47260
+Line 840: nine5gxdsrrxsqbsx77
+Right = 7
+Left = 5
+Left = 5, Right = 7, Value = 57, Total = 47317
+Line 841: fourlgqzjnznnboneqr7m
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 47394
+Line 842: threekvdjs63lrfdvskhk7eight
+Right = 7
+Left = 6
+Left = 6, Right = 7, Value = 67, Total = 47461
+Line 843: hqthneight3oneone
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 47494
+Line 844: gkfzr4vpfzqnveightqqvqpvvcxsx99
+Right = 9
+Left = 4
+Left = 4, Right = 9, Value = 49, Total = 47543
+Line 845: gxhtwo17fourtjkgpbhxn3five
+Right = 3
+Left = 1
+Left = 1, Right = 3, Value = 13, Total = 47556
+Line 846: dmcpvjfour4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 47600
+Line 847: 2fhgldxrhsdlgj
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 47622
+Line 848: threestseven33seven3six
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 47655
+Line 849: sixxlfhq2oneninenvjmp5
+Right = 5
+Left = 2
+Left = 2, Right = 5, Value = 25, Total = 47680
+Line 850: five9eight9seven79
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 47779
+Line 851: threexpnbqninexmstddlcznine29
+Right = 9
+Left = 2
+Left = 2, Right = 9, Value = 29, Total = 47808
+Line 852: two8ftmnhttjz
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 47896
+Line 853: ninevxeightxtm28five2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 47918
+Line 854: bqkntmtgkpsgkfbtdkvtnq3seven87six
+Right = 7
+Left = 3
+Left = 3, Right = 7, Value = 37, Total = 47955
+Line 855: 14sixeight
+Left = 1
+Right = 4
+Left = 1, Right = 4, Value = 14, Total = 47969
+Line 856: 6foursixfive
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 48035
+Line 857: mpbqcseven8seven
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 48123
+Line 858: three6prbqk
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 48189
+Line 859: six6lkcjbnjvhfiveqppone95
+Right = 5
+Left = 6
+Left = 6, Right = 5, Value = 65, Total = 48254
+Line 860: 3thvllrn
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 48287
+Line 861: 221threesix1two
+Left = 2
+Right = 1
+Left = 2, Right = 1, Value = 21, Total = 48308
+Line 862: fdlzfivexhgbbkzsbkrjgshone13
+Right = 3
+Left = 1
+Left = 1, Right = 3, Value = 13, Total = 48321
+Line 863: rhztctbf3mgbj
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 48354
+Line 864: 1seven41oneeighttwo2mqt
+Left = 1
+Right = 2
+Left = 1, Right = 2, Value = 12, Total = 48366
+Line 865: ct763
+Right = 3
+Left = 7
+Left = 7, Right = 3, Value = 73, Total = 48439
+Line 866: nine9nine8hfgeight
+Left = 9
+Right = 8
+Left = 9, Right = 8, Value = 98, Total = 48537
+Line 867: 61threeseven79fkxrqqgcl
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 48606
+Line 868: fivesix8rgksjszlhcdqmxbhkxdvfour
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 48694
+Line 869: fiveg1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 48705
+Line 870: 2735sixninextzcxpftb
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 48730
+Line 871: kpnqg3four
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 48763
+Line 872: 388zdxkjbqmrntrhtwovqjvdprtkpcdthtxx
+Left = 3
+Right = 8
+Left = 3, Right = 8, Value = 38, Total = 48801
+Line 873: 141qgkklqssnl1three
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 48812
+Line 874: 6frqpmvkmhtxdhl1threethree9nine4
+Left = 6
+Right = 4
+Left = 6, Right = 4, Value = 64, Total = 48876
+Line 875: sevenzxlszsk692one2
+Right = 2
+Left = 6
+Left = 6, Right = 2, Value = 62, Total = 48938
+Line 876: onecjb3sixrqtkqmrjdseven8five
+Right = 8
+Left = 3
+Left = 3, Right = 8, Value = 38, Total = 48976
+Line 877: oneqnffive7five2lvzthreemgtf
+Left = 7
+Right = 2
+Left = 7, Right = 2, Value = 72, Total = 49048
+Line 878: 44threethree
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 49092
+Line 879: hckkcxjzhrhc2eightdqrzbtx
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 49114
+Line 880: nineone2threesix8pdjbzxkrbsfour
+Left = 2
+Right = 8
+Left = 2, Right = 8, Value = 28, Total = 49142
+Line 881: 6two4kxntrqbhsqvtxdftqqkpfbsqhbssvjjqtnine
+Left = 6
+Right = 4
+Left = 6, Right = 4, Value = 64, Total = 49206
+Line 882: 1twoonennknzvgjj
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 49217
+Line 883: 5fourdpzqdtsix81
+Left = 5
+Right = 1
+Left = 5, Right = 1, Value = 51, Total = 49268
+Line 884: 6brvvrgntseven
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 49334
+Line 885: vkghzgzzrhfivenine2qbxh
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 49356
+Line 886: foureight2qqdg7fourchbltsmxgnrtctpv
+Left = 2
+Right = 7
+Left = 2, Right = 7, Value = 27, Total = 49383
+Line 887: twovbzzjzqxrnrmnqnsxrlckzb2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 49405
+Line 888: zoneightfive8nine2one6
+Right = 6
+Left = 8
+Left = 8, Right = 6, Value = 86, Total = 49491
+Line 889: dsrcd7sxteighthgqmkbzdflhbhrgsix
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 49568
+Line 890: 7vfvzfgznfivemhhxkgxdrd83two
+Left = 7
+Right = 3
+Left = 7, Right = 3, Value = 73, Total = 49641
+Line 891: 48tflgpdszf
+Left = 4
+Right = 8
+Left = 4, Right = 8, Value = 48, Total = 49689
+Line 892: kxrk5ntwoeighttwo
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 49744
+Line 893: twofivetwojxbtnfivethreeninesix9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 49843
+Line 894: 57fvgrcpm
+Left = 5
+Right = 7
+Left = 5, Right = 7, Value = 57, Total = 49900
+Line 895: one1cxmqqfour77one6
+Right = 6
+Left = 1
+Left = 1, Right = 6, Value = 16, Total = 49916
+Line 896: eightfive48
+Right = 8
+Left = 4
+Left = 4, Right = 8, Value = 48, Total = 49964
+Line 897: sevenpvtclpklconedgnthreefive5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 50019
+Line 898: 8onesix6rvxd
+Left = 8
+Right = 6
+Left = 8, Right = 6, Value = 86, Total = 50105
+Line 899: five35six294
+Right = 4
+Left = 3
+Left = 3, Right = 4, Value = 34, Total = 50139
+Line 900: sksonenine3four
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 50172
+Line 901: eighttwo7fcpphztsnlqnf
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 50249
+Line 902: 9eightseveneighteightmnjdscdbhm
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 50348
+Line 903: eight3six27vjnlvmlxrzzbsjvpvkkvb
+Left = 3
+Right = 7
+Left = 3, Right = 7, Value = 37, Total = 50385
+Line 904: 7zqcsgbmjch
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 50462
+Line 905: 4nine2185
+Left = 4
+Right = 5
+Left = 4, Right = 5, Value = 45, Total = 50507
+Line 906: 9stxd5sevensix2qbnv2
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 50599
+Line 907: 8xqhdkkmthreesevenpk7
+Left = 8
+Right = 7
+Left = 8, Right = 7, Value = 87, Total = 50686
+Line 908: nine61one6ntgmgscglv
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 50752
+Line 909: three52cmppklbtfrpltp3
+Right = 3
+Left = 5
+Left = 5, Right = 3, Value = 53, Total = 50805
+Line 910: 48fivefivefivenfourthreeb
+Left = 4
+Right = 8
+Left = 4, Right = 8, Value = 48, Total = 50853
+Line 911: jlchqchqseight1grbbhgp4rxjgxlx
+Right = 4
+Left = 1
+Left = 1, Right = 4, Value = 14, Total = 50867
+Line 912: cklzfour44fivejqone9
+Right = 9
+Left = 4
+Left = 4, Right = 9, Value = 49, Total = 50916
+Line 913: 75q1
+Left = 7
+Right = 1
+Left = 7, Right = 1, Value = 71, Total = 50987
+Line 914: ninejtwo5mfx6
+Right = 6
+Left = 5
+Left = 5, Right = 6, Value = 56, Total = 51043
+Line 915: 4mqvgrtsbfthreebffour9
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 51092
+Line 916: xtwone5knhdrrbv4six
+Right = 4
+Left = 5
+Left = 5, Right = 4, Value = 54, Total = 51146
+Line 917: qthreethreegr9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 51245
+Line 918: qknlgsvgntseven9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 51344
+Line 919: ninezsrkx5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 51399
+Line 920: 7three8
+Left = 7
+Right = 8
+Left = 7, Right = 8, Value = 78, Total = 51477
+Line 921: dseven7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 51554
+Line 922: btbrjdmhzrvcx9threedmjflfbsvkvbl
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 51653
+Line 923: bgcfzgmrmgthreeeighttwohmzhsks89
+Right = 9
+Left = 8
+Left = 8, Right = 9, Value = 89, Total = 51742
+Line 924: 7tgfcvpjfour1four6twokglvsvgkk
+Left = 7
+Right = 6
+Left = 7, Right = 6, Value = 76, Total = 51818
+Line 925: twoninekd5
+Right = 5
+Left = 5
+Left = 5, Right = 5, Value = 55, Total = 51873
+Line 926: 549seven
+Left = 5
+Right = 9
+Left = 5, Right = 9, Value = 59, Total = 51932
+Line 927: one8drvtsevenknmdf9vpfggjsbbq
+Left = 8
+Right = 9
+Left = 8, Right = 9, Value = 89, Total = 52021
+Line 928: nine27foursix5dqtmvntpnp5qfhhq
+Left = 2
+Right = 5
+Left = 2, Right = 5, Value = 25, Total = 52046
+Line 929: seven92tlnkxssevenone
+Left = 9
+Right = 2
+Left = 9, Right = 2, Value = 92, Total = 52138
+Line 930: three5dljshpbfiveqmzvcrkt
+Left = 5
+Right = 5
+Left = 5, Right = 5, Value = 55, Total = 52193
+Line 931: 4threesixeightfcvjl
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 52237
+Line 932: gfgsd46
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 52283
+Line 933: eight87eight318
+Right = 8
+Left = 8
+Left = 8, Right = 8, Value = 88, Total = 52371
+Line 934: 1tbbsmdhtwonedtt
+Left = 1
+Right = 1
+Left = 1, Right = 1, Value = 11, Total = 52382
+Line 935: sixsixsix3tncpvghckn3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 52415
+Line 936: onesix9threegtqgvfour5kjmlkkvgdp
+Left = 9
+Right = 5
+Left = 9, Right = 5, Value = 95, Total = 52510
+Line 937: fourj4fbfjssf39sixninefive
+Left = 4
+Right = 9
+Left = 4, Right = 9, Value = 49, Total = 52559
+Line 938: 9eight6ltrnsr63dfjlhhmtsixtwo
+Left = 9
+Right = 3
+Left = 9, Right = 3, Value = 93, Total = 52652
+Line 939: 9twoxvcdpbtldsrfgtsix
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 52751
+Line 940: slzvnxrninesevenbfls1
+Right = 1
+Left = 1
+Left = 1, Right = 1, Value = 11, Total = 52762
+Line 941: five4twotjfsfsv
+Left = 4
+Right = 4
+Left = 4, Right = 4, Value = 44, Total = 52806
+Line 942: 5one58plvtm
+Left = 5
+Right = 8
+Left = 5, Right = 8, Value = 58, Total = 52864
+Line 943: 6twopkkjkj68gmklcbqsixsevenseven
+Left = 6
+Right = 8
+Left = 6, Right = 8, Value = 68, Total = 52932
+Line 944: five7one
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 53009
+Line 945: fourzxmhgf7tvqone8four
+Right = 8
+Left = 7
+Left = 7, Right = 8, Value = 78, Total = 53087
+Line 946: 7eightzzzphf
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 53164
+Line 947: xlgtkzljmbqxktwodhvdfsvnq43
+Right = 3
+Left = 4
+Left = 4, Right = 3, Value = 43, Total = 53207
+Line 948: threetwofdgctgbhk5four52two
+Right = 2
+Left = 5
+Left = 5, Right = 2, Value = 52, Total = 53259
+Line 949: 3three7
+Left = 3
+Right = 7
+Left = 3, Right = 7, Value = 37, Total = 53296
+Line 950: gjlppxbtnb42rlqhseven
+Right = 2
+Left = 4
+Left = 4, Right = 2, Value = 42, Total = 53338
+Line 951: 72blljfjds
+Left = 7
+Right = 2
+Left = 7, Right = 2, Value = 72, Total = 53410
+Line 952: njvlxgphhkzoneg4sevengszqkr
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 53454
+Line 953: 6kgplksixthree5tblnq
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 53519
+Line 954: rnrhsix7pfourfvslblz
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 53596
+Line 955: 3mxztbfqpqh65eightnine2bbpeight
+Left = 3
+Right = 2
+Left = 3, Right = 2, Value = 32, Total = 53628
+Line 956: sixonehgjfhqdqxc9fc
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 53727
+Line 957: 96two
+Left = 9
+Right = 6
+Left = 9, Right = 6, Value = 96, Total = 53823
+Line 958: 8xvlnine7hrtnckxt
+Left = 8
+Right = 7
+Left = 8, Right = 7, Value = 87, Total = 53910
+Line 959: 7lzdqlrlrftzz
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 53987
+Line 960: knndninetdtlsdmmrthreefxph3
+Right = 3
+Left = 3
+Left = 3, Right = 3, Value = 33, Total = 54020
+Line 961: 6pflhvts32
+Left = 6
+Right = 2
+Left = 6, Right = 2, Value = 62, Total = 54082
+Line 962: 1rhjxvlxfdbhckhxtwo8
+Left = 1
+Right = 8
+Left = 1, Right = 8, Value = 18, Total = 54100
+Line 963: seventjvtms36ninesfxnpfhxk
+Left = 3
+Right = 6
+Left = 3, Right = 6, Value = 36, Total = 54136
+Line 964: rqftcbxkjbsbzhtxdt52
+Right = 2
+Left = 5
+Left = 5, Right = 2, Value = 52, Total = 54188
+Line 965: 8sfvvbtfjmv47seven5psseven
+Left = 8
+Right = 5
+Left = 8, Right = 5, Value = 85, Total = 54273
+Line 966: kjeightwofive4onevlm9
+Right = 9
+Left = 4
+Left = 4, Right = 9, Value = 49, Total = 54322
+Line 967: vtwonesnfshngpvfive4ttcqseven
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 54366
+Line 968: zpthreevf4gqcvrkdsnxthree5
+Right = 5
+Left = 4
+Left = 4, Right = 5, Value = 45, Total = 54411
+Line 969: 15sixlphbkgsqmpxbxjmg
+Left = 1
+Right = 5
+Left = 1, Right = 5, Value = 15, Total = 54426
+Line 970: llhxfpmkhghfive7sixvbhhqg7
+Right = 7
+Left = 7
+Left = 7, Right = 7, Value = 77, Total = 54503
+Line 971: nine2pdbgprkz
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 54525
+Line 972: qmdtwone66gcnlhtnjmfour
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 54591
+Line 973: 9onetwoeighteight
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 54690
+Line 974: 42five5sevenjjfbdtrdmb36
+Left = 4
+Right = 6
+Left = 4, Right = 6, Value = 46, Total = 54736
+Line 975: tjj6cvhstnjfcklone
+Left = 6
+Right = 6
+Left = 6, Right = 6, Value = 66, Total = 54802
+Line 976: vvgtpqlm6znvnlbd5nineninejjsphkzsix
+Left = 6
+Right = 5
+Left = 6, Right = 5, Value = 65, Total = 54867
+Line 977: kconeight8xpgdhhrdtfzghrmthreefcb18six3
+Right = 3
+Left = 8
+Left = 8, Right = 3, Value = 83, Total = 54950
+Line 978: six2one4vflp
+Left = 2
+Right = 4
+Left = 2, Right = 4, Value = 24, Total = 54974
+Line 979: skqgc95two
+Right = 5
+Left = 9
+Left = 9, Right = 5, Value = 95, Total = 55069
+Line 980: crzz84269sixfour
+Left = 8
+Right = 9
+Left = 8, Right = 9, Value = 89, Total = 55158
+Line 981: five758jcjqdqcgqnqbqtvk8pjxmdb
+Left = 7
+Right = 8
+Left = 7, Right = 8, Value = 78, Total = 55236
+Line 982: ninefn3jstbsbvfivefourthreeqs
+Left = 3
+Right = 3
+Left = 3, Right = 3, Value = 33, Total = 55269
+Line 983: rrnfflfqnttgj9eighthnvmbfbtgnt
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 55368
+Line 984: bbtmcmlnn2sevensixxbgzbfthree
+Left = 2
+Right = 2
+Left = 2, Right = 2, Value = 22, Total = 55390
+Line 985: 8xzb9one3sfiveseven
+Left = 8
+Right = 3
+Left = 8, Right = 3, Value = 83, Total = 55473
+Line 986: 9nkhntmrll
+Left = 9
+Right = 9
+Left = 9, Right = 9, Value = 99, Total = 55572
+Line 987: tpxrcthqbktwoeightonepcc4tzf26
+Right = 6
+Left = 4
+Left = 4, Right = 6, Value = 46, Total = 55618
+Line 988: 659nfbpb
+Left = 6
+Right = 9
+Left = 6, Right = 9, Value = 69, Total = 55687
+Line 989: oneone2
+Right = 2
+Left = 2
+Left = 2, Right = 2, Value = 22, Total = 55709
+Line 990: tmppzkhk49nine4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 55753
+Line 991: 8kgplfhvtvqpfsblddnineoneighthg
+Left = 8
+Right = 8
+Left = 8, Right = 8, Value = 88, Total = 55841
+Line 992: 332bfjbttrmbrxjqssr6oneeight
+Left = 3
+Right = 6
+Left = 3, Right = 6, Value = 36, Total = 55877
+Line 993: threeeightfive6fxlckcsskpnd
+Right = 6
+Left = 6
+Left = 6, Right = 6, Value = 66, Total = 55943
+Line 994: zeightvh9
+Right = 9
+Left = 9
+Left = 9, Right = 9, Value = 99, Total = 56042
+Line 995: seventhree4seven
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 56086
+Line 996: bdmdqptkjzn74
+Right = 4
+Left = 7
+Left = 7, Right = 4, Value = 74, Total = 56160
+Line 997: lsmcmgtflzxmszdkjmdsklrgvtcdlpx4
+Right = 4
+Left = 4
+Left = 4, Right = 4, Value = 44, Total = 56204
+Line 998: xsftnb6mvgqxv17four
+Right = 7
+Left = 6
+Left = 6, Right = 7, Value = 67, Total = 56271
+Line 999: 7gqqvzkvzbvxghxonekqvsteight
+Left = 7
+Right = 7
+Left = 7, Right = 7, Value = 77, Total = 56348
+Line 1000: nineninekfp49
+Right = 9
+Left = 4
+Left = 4, Right = 9, Value = 49, Total = 56397
+Processed 1000 lines, total is 56397
